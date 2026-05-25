@@ -22,3 +22,12 @@ Custom-trained YOLOv8n model to detect F1 toy cars (LEGO + plastic).
 
 python f1\_detector.py
 
+## Model Weights
+
+The trained model (`best.pt`) is too large for GitHub. Download options:
+
+1. **Train yourself:** Follow the training steps in the main README using Google Colab
+2. **Request from author:** Contact rgurbani15@gmail.com
+3. **Use Roboflow dataset:** [Your Roboflow project link if public]
+
+Place `best.pt` in this folder before running `f1_detector.py`
